@@ -1,6 +1,5 @@
-// create the token mint
-// create the mint metadata
-// create a associated token account
-// mint tokens 
-// transfer tokens
+//"2N5zgUQR2T6svk4ZPAKe6hgqn34j1Vzskw3KmjSf2VxK" - metadata
+
+
+// 5G8yt3HzuVmGqmcoZFeNtQXu2jZFQd311xw3ark13CXn - token account 
 
